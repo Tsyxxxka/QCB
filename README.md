@@ -8,7 +8,7 @@ Using 'pre.cpp' to preprocess input graph as a simple connected graph with no se
 
 1. Preprocess the input dataset.
 ```shell
-g++ -o pre pre_process.cpp  -std=c++11 -O3
+g++ -o pre pre.cpp  -std=c++11 -O3
 ./pre [dataset]
 ```
 
